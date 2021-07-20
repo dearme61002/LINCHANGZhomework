@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<taxs>
+	<tax id="scooter">
+		<cc>150以下</cc>
+		<price>0</price>
+	</tax>
+	<tax id="scooter">
+		<cc>150-250</cc>
+		<price>800</price>
+	</tax>
+	<tax id="scooter">
+		<cc>251-500</cc>
+		<price>1620</price>
+	</tax>
+	<tax id="scooter">
+		<cc>501-600</cc>
+		<price>2160</price>
+	</tax>
+	<tax id="scooter">
+		<cc>601-1200</cc>
+		<price>4320</price>
+	</tax>
+	<tax id="scooter">
+		<cc>1201-1800</cc>
+		<price>7120</price>
+	</tax>
+	<tax id="scooter">
+		<cc>1801以上</cc>
+		<price>11230</price>
+	</tax>
+	<tax id="truck">
+		<cc>500以下</cc>
+		<price>900</price>
+	</tax>
+	<tax id="truck">
+		<cc>501-600</cc>
+		<price>1080</price>
+	</tax>
+	<tax id="truck">
+		<cc>601-1200</cc>
+		<price>1800</price>
+	</tax>
+	<tax id="truck">
+		<cc>1201-1800</cc>
+		<price>2700</price>
+	</tax>
+	<tax id="truck">
+		<cc>1801-2400</cc>
+		<price>3600</price>
+	</tax>
+	<tax id="truck">
+		<cc>2401-3000</cc>
+		<price>4500</price>
+	</tax>
+	<tax id="truck">
+		<cc>3001-3600</cc>
+		<price>5400</price>
+	</tax>
+	<tax id="truck">
+		<cc>3601-4200</cc>
+		<price>6300</price>
+	</tax>
+	<tax id="truck">
+		<cc>4201-4800</cc>
+		<price>7200</price>
+	</tax>
+	<tax id="truck">
+		<cc>4801-5400</cc>
+		<price>8100</price>
+	</tax>
+	<tax id="truck">
+		<cc>5401-6000</cc>
+		<price>9000</price>
+	</tax>
+	<tax id="truck">
+		<cc>6001-6600</cc>
+		<price>9900</price>
+	</tax>
+	<tax id="truck">
+		<cc>6601-7200</cc>
+		<price>10800</price>
+	</tax>
+	<tax id="truck">
+		<cc>7201-7800</cc>
+		<price>11700</price>
+	</tax>
+	<tax id="truck">
+		<cc>7801-8000</cc>
+		<price>12600</price>
+	</tax>
+	<tax id="truck">
+		<cc>8001-8400</cc>
+		<price>12600</price>
+	</tax>
+	<tax id="truck">
+		<cc>8401-9000</cc>
+		<price>13500</price>
+	</tax>
+	<tax id="truck">
+		<cc>9001-9600</cc>
+		<price>14400</price>
+	</tax>
+	<tax id="truck">
+		<cc>9601-10000</cc>
+		<price>15300</price>
+	</tax>
+	<tax id="truck">
+		<cc>10001-10200</cc>
+		<price>15300</price>
+	</tax>
+	<tax id="truck">
+		<cc>10201以上</cc>
+		<price>16200</price>
+	</tax>
+	<tax id="bus">
+		<cc>600以下</cc>
+		<price>1080</price>
+	</tax>
+	<tax id="bus">
+		<cc>601-1200</cc>
+		<price>1800</price>
+	</tax>
+	<tax id="bus">
+		<cc>1201-1800</cc>
+		<price>2700</price>
+	</tax>
+	<tax id="bus">
+		<cc>1801-2400</cc>
+		<price>3600</price>
+	</tax>
+	<tax id="bus">
+		<cc>2401-3000</cc>
+		<price>4500</price>
+	</tax>
+	<tax id="bus">
+		<cc>3001-3600</cc>
+		<price>5400</price>
+	</tax>
+	<tax id="bus">
+		<cc>3601-4200</cc>
+		<price>6300</price>
+	</tax>
+	<tax id="bus">
+		<cc>4201-4800</cc>
+		<price>7200</price>
+	</tax>
+	<tax id="bus">
+		<cc>4801-5400</cc>
+		<price>8100</price>
+	</tax>
+	<tax id="bus">
+		<cc>5401-6000</cc>
+		<price>9000</price>
+	</tax>
+	<tax id="bus">
+		<cc>6001-6600</cc>
+		<price>9900</price>
+	</tax>
+	<tax id="bus">
+		<cc>6601-7200</cc>
+		<price>10800</price>
+	</tax>
+	<tax id="bus">
+		<cc>7201-7800</cc>
+		<price>11700</price>
+	</tax>
+	<tax id="bus">
+		<cc>7801-8400</cc>
+		<price>12600</price>
+	</tax>
+	<tax id="bus">
+		<cc>8401-9000</cc>
+		<price>13500</price>
+	</tax>
+	<tax id="bus">
+		<cc>9001-9600</cc>
+		<price>14400</price>
+	</tax>
+	<tax id="bus">
+		<cc>9601-10200</cc>
+		<price>15300</price>
+	</tax>
+	<tax id="bus">
+		<cc>10201以上</cc>
+		<price>16200</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>500以下</cc>
+		<price>1620</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>500-600</cc>
+		<price>2160</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>601-1200</cc>
+		<price>4320</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>1201-1800</cc>
+		<price>7120</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>1801-2400</cc>
+		<price>11230</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>2401-3000</cc>
+		<price>15210</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>3001-4200</cc>
+		<price>28220</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>4201-5400</cc>
+		<price>46170</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>5401-6600</cc>
+		<price>69690</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>6601-7800</cc>
+		<price>117000</price>
+	</tax>
+	<tax id="smallbus">
+		<cc>7801以上</cc>
+		<price>151200</price>
+	</tax>
+	<tax id="salecar">
+		<cc>500以下</cc>
+		<price>900</price>
+	</tax>
+	<tax id="salecar">
+		<cc>501-600</cc>
+		<price>1260</price>
+	</tax>
+	<tax id="salecar">
+		<cc>601-1200</cc>
+		<price>2160</price>
+	</tax>
+	<tax id="salecar">
+		<cc>1201-1800</cc>
+		<price>3060</price>
+	</tax>
+	<tax id="salecar">
+		<cc>1801-2400</cc>
+		<price>6480</price>
+	</tax>
+	<tax id="salecar">
+		<cc>2401-3000</cc>
+		<price>9900</price>
+	</tax>
+	<tax id="salecar">
+		<cc>3001-4200</cc>
+		<price>16380</price>
+	</tax>
+	<tax id="salecar">
+		<cc>4201-5400</cc>
+		<price>24300</price>
+	</tax>
+	<tax id="salecar">
+		<cc>5401-6600</cc>
+		<price>33660</price>
+	</tax>
+	<tax id="salecar">
+		<cc>6601-7800</cc>
+		<price>44460</price>
+	</tax>
+	<tax id="salecar">
+		<cc>7801以上</cc>
+		<price>56700</price>
+	</tax>
+	
+
+
+
+
+</taxs>
